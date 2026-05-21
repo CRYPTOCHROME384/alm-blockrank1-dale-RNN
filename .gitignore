@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+logs/
+results_current/
+
+*.pt
+*.pth
+*.npz
+*.npy
+*.png
+*.pdf
+
+.DS_Store
